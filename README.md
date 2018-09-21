@@ -1,1 +1,4 @@
 # weblap1
+
+
+tökmindegy
